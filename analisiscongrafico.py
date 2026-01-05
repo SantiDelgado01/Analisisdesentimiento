@@ -43,7 +43,7 @@ print("✅ Modelo cargado y listo.")
 
 
 
-API_KEY = "AIzaSyDOqghZ2EDYVGJfAgYVNHFKM-rHoxDTI3o" 
+API_KEY = "apikey" 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 VIDEOS_A_COMPARAR = [
     {
