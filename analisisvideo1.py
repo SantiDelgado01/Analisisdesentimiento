@@ -37,7 +37,7 @@ print("✅ Modelo cargado y listo.")
 
 
 
-API_KEY = "AIzaSyDOqghZ2EDYVGJfAgYVNHFKM-rHoxDTI3o" 
+API_KEY = "apikey" 
 VIDEO_ID = "oI1eamjjTAo" 
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
