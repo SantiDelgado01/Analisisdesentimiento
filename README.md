@@ -13,6 +13,9 @@ Python 3.x
     * `nltk` (Natural Language Toolkit)
     * `pandas` (Para manejo de datos)
     * `scikit-learn` (Si utilizas modelos de Machine Learning)
+    * `google-api-python-client`
+    *  `emoji`
+    * `pysentimiento`
 
 ## 🚀 Instalación y Uso
 
